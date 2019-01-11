@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ci-begin-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ci-begin-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
